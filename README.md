@@ -10,7 +10,7 @@
 </h1>
  
 
-### Eazy-Buy is a collaborative project developed by me and my partner [Lior Dawit](https://github.com/Dawitlior), using MERN stack with TypeScript and React Query. It offers a seamless shopping experience for electrical products 
+### Eazy-Buy is a collaborative project developed by me and my partner [Slomon Avrham](https://github.com/SolomonAvraham), using MERN stack with TypeScript and React Query. It offers a seamless shopping experience for electrical products 
  
  
 <div align="center" size="55px">
